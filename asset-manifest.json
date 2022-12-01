@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/Coin-information/static/js/main.d7280f8b.js",
-    "static/js/787.05aab820.chunk.js": "/Coin-information/static/js/787.05aab820.chunk.js",
-    "index.html": "/Coin-information/index.html",
-    "main.d7280f8b.js.map": "/Coin-information/static/js/main.d7280f8b.js.map",
-    "787.05aab820.chunk.js.map": "/Coin-information/static/js/787.05aab820.chunk.js.map"
+    "main.js": "/Coin_information/static/js/main.1bd3e536.js",
+    "static/js/787.05aab820.chunk.js": "/Coin_information/static/js/787.05aab820.chunk.js",
+    "index.html": "/Coin_information/index.html",
+    "main.1bd3e536.js.map": "/Coin_information/static/js/main.1bd3e536.js.map",
+    "787.05aab820.chunk.js.map": "/Coin_information/static/js/787.05aab820.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.d7280f8b.js"
+    "static/js/main.1bd3e536.js"
   ]
 }
